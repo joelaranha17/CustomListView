@@ -13,7 +13,7 @@ import android.widget.TextView;
 /**
  * Created by joel on 10/31/2017.
  */
-
+    //kevin has modified this file
 class CustomAdapter extends ArrayAdapter<String> {
 
     public CustomAdapter(@NonNull Context context, String[] foods) {
